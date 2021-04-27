@@ -1,7 +1,7 @@
 #include"libOne.h"
-void gmain(){
-    window(1000, 1000);
-    while (notQuit){
-        clear(200);
+void gmain() {
+    window(1280, 720);
+    while (notQuit) {
+        clear();
     }
 }
