@@ -1,5 +1,6 @@
 #pragma once
 #include"framework.h"
+#include"window.h"
 #include"graphic.h"
 #include"input.h"
 #include"rand.h"
@@ -8,5 +9,4 @@
 #include"let.h"
 #include"package.h"
 #include"sound.h"
-#include"abs.h"
 #include"mathUtil.h"
