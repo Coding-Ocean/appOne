@@ -10,7 +10,7 @@
 float func0(float x) { return x; }
 float func1(float x) { return x * x; }
 float func2(float x) { return x * x * x; }
-float func3(float x) { return cosf(x); }
+float func3(float x) { return cos(x); }
 
 void graph(std::function<float(float)> f)
 {
@@ -57,7 +57,6 @@ void gmain()
 
 		fill(255);
 		mathCircle(x, y, 0.1f);
-
 	}
 }
 #endif

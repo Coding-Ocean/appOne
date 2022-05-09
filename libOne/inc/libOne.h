@@ -10,5 +10,4 @@
 #include"let.h"
 #include"package.h"
 #include"sound.h"
-#include"mathShape.h"
 #include"mathUtil.h"
