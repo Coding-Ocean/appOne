@@ -7,7 +7,6 @@ void gmain()
 	while (notQuit)
 	{
 		clear(200);
-		mathAxis();
 	}
 }
 #endif
